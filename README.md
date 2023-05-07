@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning **AWS Developer Associate Certificate**
 - 📫 How to reach me **balaji.b@optisolbusiness.com**
+- 💞️ I’m looking for mentors to guide me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
