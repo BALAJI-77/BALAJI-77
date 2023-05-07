@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/xrcdzq7uxwg51.png?width=1080&crop=smart&auto=webp&v=enabled&s=3d21e642db2e387334a087d0f7b37935a2737b27)]()
+<!-- [![MasterHead](https://preview.redd.it/xrcdzq7uxwg51.png?width=1080&crop=smart&auto=webp&v=enabled&s=3d21e642db2e387334a087d0f7b37935a2737b27)]() -->
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">As a data engineer and Python developer with over 2 years of experience, I bring my skills and expertise to create robust and scalable solutions.</h3>
 
