@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://i.pinimg.com/originals/fa/d4/a4/fad4a4fb622b3c0d81b2994e6d17a732.jpg)]() -->
+[![MasterHead](https://i.pinimg.com/originals/fa/d4/a4/fad4a4fb622b3c0d81b2994e6d17a732.jpg)]()
 <h1 align="center">Hi 👋, I'm Balaji</h1>
 <h3 align="center">As a data engineer and Python developer with over 2 years of experience, I bring my skills and expertise to create robust and scalable solutions.</h3>
 
